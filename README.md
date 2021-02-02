@@ -1,0 +1,2 @@
+# BasicPubSubPattern
+Publish/Subscribe patter
